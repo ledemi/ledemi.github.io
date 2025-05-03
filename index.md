@@ -1,1 +1,1 @@
-Welcome to my site. Please check back for updates 1.
+I'm building an app in Oracle APEX. Check back here for updates.
