@@ -1,0 +1,14 @@
+title: Michael Ledet
+author: 
+   name: Michael Ledet
+   email: michaelledet@gmail.com
+description: personal GitHub Page
+
+theme: minima
+
+minima:
+  skin: auto
+  social_links:
+    - title: My GitHub
+      icon: github
+      url: "https://github.com/ledemi"
