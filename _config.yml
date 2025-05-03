@@ -1,12 +1,10 @@
 title: Michael Ledet
-description: test description 1
-author: 
-   name: Michael Ledet
+author:
    email: michaelledet@gmail.com
 remote_theme: jekyll/minima@1e8a445
 minima:   
    skin: dark
    social_links:
-      title: My GitHub
-      icon: github
-      url: "https://github.com/ledemi"
+      - title: ledemi
+        icon: github
+        url: "https://github.com/ledemi"
