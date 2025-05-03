@@ -1,12 +1,12 @@
-theme: minima
-minima:
-   title: Michael Ledet
-   author: 
-      name: Michael Ledet
-      email: michaelledet@gmail.com
-   description: personal GitHub Page
-      skin: dark
-      social_links:
-         title: My GitHub
-         icon: github
-         url: "https://github.com/ledemi"
+title: Michael Ledet
+description: test description 1
+author: 
+   name: Michael Ledet
+   email: michaelledet@gmail.com
+remote_theme: jekyll/minima@1e8a445
+minima:   
+   skin: dark
+   social_links:
+      title: My GitHub
+      icon: github
+      url: "https://github.com/ledemi"
