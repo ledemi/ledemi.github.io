@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DESK-AND-DERRICK-PRESENTATION"
+title: "DD-PRESENTATION"
 date: 2025-05-28 00:00:00 -0000
 ---
 
