@@ -1,2 +1,1 @@
-Here's my github page yoseph:  
-<https://ledemi.github.io/>
+This is the public repository for my github page: <https://ledemi.github.io/>
