@@ -10,6 +10,8 @@ Thank you to Ms. Susan Miller and Ms. Gabriella Hunter for inviting me to speak.
 
 It's built with [Oracle APEX](https://apex.oracle.com/en/) (low-code front end framework) and hosted for free on [Oracle Cloud](https://www.oracle.com/cloud/free/).
 
+This website is also hosted for free on [GitHub Pages](https://pages.github.com/).
+
 Current Entity Relationship Diagram (ERD):  
 ![ocsea_erd](/assets/images/ocsea_erd.png)
 
