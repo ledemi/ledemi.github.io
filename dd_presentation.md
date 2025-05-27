@@ -15,3 +15,5 @@ I used AI extensively to generate code and help me understand database concepts.
 - [Generating a Python script](https://grok.com/share/c2hhcmQtMg%3D%3D_31ea3654-8ce8-4616-8df0-f9e47ff5b8a2)
 - [Iterating on Python script](https://grok.com/share/c2hhcmQtMg%3D%3D_3abf8f5f-679e-4aa7-b653-7a19909f656b)
 - [OCSEA logo](https://grok.com/share/c2hhcmQtMg%3D%3D_e9dc10e7-4f74-4673-9598-5817a4f7595a)
+
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
