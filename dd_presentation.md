@@ -8,6 +8,8 @@ Thank you to Ms. Susan Miller and Ms. Gabriella Hunter for inviting me to speak.
 
 [OCSEA](https://gff856e6c70bc1a-afadb1.adb.us-chicago-1.oraclecloudapps.com/ords/r/ocs/ocsea) is primarily a personal learning project and a tool I'll be using as a casual observer of the oil and gas industry to gain insight into BSEE's publically available federal offshore [data](https://www.data.bsee.gov/).
 
+It's built with [Oracle APEX](https://apex.oracle.com/en/) (low-code front end framework) and hosted for free on [Oracle Cloud](https://www.oracle.com/cloud/free/).
+
 Current Entity Relationship Diagram (ERD):  
 ![ocsea_erd](/assets/images/ocsea_erd.png)
 
