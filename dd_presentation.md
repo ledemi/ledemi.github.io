@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Desk and Derrick Club Presentation"
+title: "Desk and Derrick Club Presentation Notes"
 permalink: /dd-presentation
 ---
 
