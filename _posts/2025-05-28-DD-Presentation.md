@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Desk and Derrick Club Presentation"
-date: 2025-05-09 00:00:00 -0000
+date: 2025-05-28 00:00:00 -0000
 ---
 # Outer Continental Shelf Energy Analytics
 [Link](https://ledemi.github.io/dd-presentation) to my presentation notes.
