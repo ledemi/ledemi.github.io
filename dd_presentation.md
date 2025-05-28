@@ -24,7 +24,7 @@ The largest hurdle was building the ETL (extract, transform, load) process. I us
  ![ocsea_procedures](/assets/images/ocsea_procedures.png)
 
 SQL for Production by Platform page:  
-```tsql
+```sql
 with prod_months as (
     select
         add_months(trunc(sysdate, 'month'), - 4 - (level - 1)) prod_month_start,
