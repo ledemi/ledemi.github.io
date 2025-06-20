@@ -12,5 +12,6 @@ It's built with [Oracle APEX](https://apex.oracle.com/en/) (low-code front end f
 
 (This website is also hosted for free on [GitHub Pages](https://pages.github.com/).)
 
-Scan this QR code on your phone and click Install App to install OCSEA as a [PWA](https://en.wikipedia.org/wiki/Progressive_web_app):  
+To install OCSEA on your phone as a [PWA](https://en.wikipedia.org/wiki/Progressive_web_app), navigate to [OCSEA](https://gff856e6c70bc1a-afadb1.adb.us-chicago-1.oraclecloudapps.com/ords/r/ocs/ocsea) or scan the QR code below and click Install App.  
+
 ![ocsea_qr_code](/assets/images/ocsea_qr_code.png)
