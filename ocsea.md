@@ -10,7 +10,7 @@ permalink: /ocsea
 
 It's built with [Oracle APEX](https://apex.oracle.com/en/) (low-code front end framework) and hosted for free on [Oracle Cloud](https://www.oracle.com/cloud/free/).
 
-This website is also hosted for free on [GitHub Pages](https://pages.github.com/).
+(This website is also hosted for free on [GitHub Pages](https://pages.github.com/).)
 
 Scan this QR code on your phone and click Install App to install OCSEA as a [PWA](https://en.wikipedia.org/wiki/Progressive_web_app):  
 ![ocsea_qr_code](/assets/images/ocsea_qr_code.png)
